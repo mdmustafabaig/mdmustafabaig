@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mohammad Mustafa Baig 👋
 
-<!--
-**mdmustafabaig/mdmustafabaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Backend Developer | 3 Years Experience  
+📍 Hyderabad, Telangana, India  
+📧 mustafamohammad738@gmail.com  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+!☕ Java 8 / 11 / 17  
+!🌱 Spring Boot  
+!📨 Kafka 
+!☸️ Kubernetes 
+!🐳 Docker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Systems Engineer @ Infosys** (Feb 2022 – Feb 2025)
+  - Spring Boot Microservices, Spring Batch, Kafka, REST APIs
+  - CI/CD: GitHub Actions + Argo CD
+  - Monitoring: Splunk, Dynatrace, Kibana
+
+## 🏆 Achievements
+- ✅ Java Full Stack Development Certification - Frontlines EduTech Private Limited 
+
+## 📫 Connect with Me
+!💼 [LinkedIn](www.linkedin.com/in/mohammadmustafabaig)
