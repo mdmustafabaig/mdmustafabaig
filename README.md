@@ -20,8 +20,8 @@
 ## 🏆 Achievements
 - ✅ Java Full Stack Development Certification - Frontlines EduTech Private Limited
 
-### 📜 Certificate
+## 📜 Certificate
 <img src="javafullstack.jpg" width="500"/>
 
 ## 📫 Connect with Me
-!💼 [LinkedIn](www.linkedin.com/in/mohammadmustafabaig)
+💼 [LinkedIn](https://www.linkedin.com/in/mohammadmustafabaig/)
